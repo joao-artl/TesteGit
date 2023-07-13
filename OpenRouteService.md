@@ -27,5 +27,5 @@ As principais informações sobre o ORS podem ser na seguinte listagem:
 
 ## 4. Referências
 
--[1][OpenRouteService GitHub] (https://github.com/GIScience/openrouteservice)
--[2][API Playground] (https://openrouteservice.org/dev/#/api-docs)
+-[1] [OpenRouteService GitHub](https://github.com/GIScience/openrouteservice)
+-[2] [API Playground](https://openrouteservice.org/dev/#/api-docs)
