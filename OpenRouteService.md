@@ -40,15 +40,11 @@ A resposta da solicitação fornecerá informações detalhadas sobre a rota, in
 
 ### Exemplo
 
-Com a URL: https://api.openrouteservice.org/v2/directions/driving-car?api_key=5b3ce3597851110001cf6248db9786ac4c7446dea93a21d0c244d5b2&start=8.681495,49.41461&end=8.687872,49.420318
+Com a URL: [Exemplo](https://api.openrouteservice.org/v2/directions/driving-car?api_key=5b3ce3597851110001cf6248db9786ac4c7446dea93a21d0c244d5b2&start=8.681495,49.41461&end=8.687872,49.420318)
 
 Onde o {profile} é driving-car para carros e {coordinates} recebe 8.681405, 49.41461 como ponto de partida e 8.687872, 49.420318 como ponto de chegada.
 
-Ele retorna o seguinte JSON:
-
-![Rota](https://api.openrouteservice.org/v2/directions/driving-car?api_key=5b3ce3597851110001cf6248db9786ac4c7446dea93a21d0c244d5b2&start=8.681495,49.41461&end=8.687872,49.420318)
-
-Onde é possivel ver todos os pontos que o veículo deve seguir durante o percurso
+É possǘel obter um JSON que contém dados de toda rota como: a distância total, o tempo total, a distancia e o tempo entre cada um dos pontos, além de instruções de como seguir de um ponto até outro.
 
 ## 4. Referências
 
