@@ -12,25 +12,25 @@
 
 *Geração da rota*
 
--Routingpy’s (Contém todos?)
--Osmnx
--Osrm
--Network-x
--Open Route Service
--Google or-tools
--GeoPy
--Backend
--Django rest framework
--FastAPI (recomendação do Eduardo)
--Flask
+- Routingpy’s (Contém todos?)
+- Osmnx
+- Osrm
+- Network-x
+- Open Route Service
+- Google or-tools
+- GeoPy
+- Backend
+- Django rest framework
+- FastAPI (recomendação do Eduardo)
+- Flask
 
 *Realizar testes básicos para verificar se o ambiente está funcionando corretamente.*
 
 ### Tarefa 2: Armazenar o Grafo Estático necessário para os cálculos futuros.
 
--Definir a estrutura do Grafo Estático.
--Recomendação: Geofabrik (http://download.geofabrik.de/south-america/brazil.html)
--Criar um mecanismo para carregar e armazenar o Grafo.
+- Definir a estrutura do Grafo Estático.
+- Recomendação: Geofabrik (http://download.geofabrik.de/south-america/brazil.html)
+- Criar um mecanismo para carregar e armazenar o Grafo.
 
 ### Tarefa 3: Armazenar os resultados e testes dos estudos.
 
