@@ -1,9 +1,13 @@
+# [Nome da issue]
+
 ### Resumo
-_Dê uma descrição..._
+_Faça uma breve descrição de como você resolver o problema..._
 
 ### Detalhes
 _Adicione mais detalhes sobre as mudanças feitas..._
 
 ### Marcadores(Opcional)
-- [] marcador 1
-- [] marcador 2
+- [ ] marcador 1
+- [ ] marcador 2
+
+resolve #[NumeroDaIssue]
